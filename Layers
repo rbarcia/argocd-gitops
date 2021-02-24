@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T13:32:17.717Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.3.0" etag="XfFXpFOvtESIQBAAlQEA" type="github"><diagram id="lNWFerIVLdIg7jLESTiL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:30:21.883Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="_uYg8HqRUVD16_aQWhJ6" version="14.3.0" type="github">
+  <diagram id="lNWFerIVLdIg7jLESTiL" name="Page-1">
+    <mxGraphModel dx="1906" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-2" value="Kubernetes Cluster and Supporting Infrastructure&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-3" value="Shared Services &amp;amp;&lt;br&gt;Certified Used Software &amp;amp;&lt;br&gt;DevOp Tools &amp;amp;&lt;br&gt;Application Monitoring Tools&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-5" value="Application Projects&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-6" value="Application Projects&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-7" value="Application Projects&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-10" value="&lt;div&gt;Operations Team&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Create Clusters, VM&#39;s, etc..&lt;/li&gt;&lt;li&gt;Storage&lt;/li&gt;&lt;li&gt;Network&lt;/li&gt;&lt;li&gt;Clouds and on-prem&lt;/li&gt;&lt;li&gt;Install, Upgrade Clusters, Operating Systems, networking, etc...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-12" value="&lt;div&gt;Platform Teams/Shared Service/DevOps Team&amp;nbsp;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Deploy Shared Software&amp;nbsp;&lt;br&gt;(API Gateway, Business Process, Data Science tools)&lt;/li&gt;&lt;li&gt;Deploy DevOps Tools and administer&amp;nbsp;&lt;/li&gt;&lt;li&gt;Bundle strategy like operators&lt;/li&gt;&lt;li&gt;Experiments, Install, Upgrades of Bundled capability&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="120" y="211.75" width="180" height="196.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-14" value="&lt;div&gt;Application Teams&amp;nbsp;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Create instances of pipelines&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Create Applications and deploy to cluster&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Use Shared Services through API&#39;s or pulling images to bundle and deploy&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Read logs and monitoring for their applications&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-15" value="Shared Services &amp;amp;&lt;br&gt;Certified Used Software &amp;amp;&lt;br&gt;DevOp Tools &amp;amp;&lt;br&gt;Application Monitoring Tools&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-16" value="Application Projects&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T7O7YdLFqX6GNsyiTSnk-17" value="Application Projects&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
